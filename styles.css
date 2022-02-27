@@ -1,0 +1,30 @@
+h1 {
+  padding: 30px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
+.upload{
+	width: 125px;
+	position: relative;
+	margin-left: 790px;
+	margin-top: 300px;
+}
+
+.upload img{
+	border-radius: 50%;
+	border: 8px solid #DCDCDC;
+}
+
+.upload .round{
+	position: absolute;
+	background: #00B4FF;
+}
+
+body{
+	background-image: url("https://img.freepik.com/free-vector/yellow-background-with-halftone-lines-design_1017-30148.jpg?size=626&ext=jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
